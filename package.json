@@ -2,8 +2,10 @@
     "name": "bookmark-jumper",
     "displayName": "BookmarkJumper",
     "description": "Jump instantly between bookmarks in your code — fast, simple, and workspace-based.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "buraksensoz",
+    "categories": ["Programming Languages","Snippets","Other"],
+    "icon": "images/icon.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/buraksensoz/bookmark-jumper"
