@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # bookmark-jumper
 Jump instantly between bookmarks in your code — fast, simple, and workspace-based.
 =======
@@ -36,9 +35,9 @@ Bookmarks are saved in the **workspace storage**, so every project keeps its own
 
 | Action | Windows / Linux | macOS |
 |:-------|:----------------|:------|
-| Save to Slot 1–9 | `Ctrl + Alt + [1–9]` | `Ctrl + Cmd + [1–9]` |
+| Save to Slot 1–9 | `Shift + Alt + [1–9]` | `Ctrl + Cmd + [1–9]` |
 | Go to Slot 1–9 | `Ctrl + Alt + Shift + [1–9]` | `Ctrl + Cmd + Shift + [1–9]` |
-| Show All Slots (QuickPick) | `Ctrl + Alt + 0` | `Ctrl + Cmd + 0` |
+| Show All Slots (QuickPick) | `Shift + Alt + 0` | `Ctrl + Cmd + 0` |
 
 
 > You can customize or override any keybinding in your personal `keybindings.json`.
@@ -59,8 +58,8 @@ Accessible from **Settings → Extensions → Bookmark Extension**:
 ## 💡 Usage
 
 1. Open any file and place the cursor where you want to create a bookmark.  
-2. Press a slot shortcut (e.g., `Ctrl + Alt + 1`).  
-3. Use `Ctrl + Alt + 0` to open the QuickPick list and jump between bookmarks.  
+2. Press a slot shortcut (e.g., `Shift + Alt + 1`).  
+3. Use `Shift + Alt + 0` to open the QuickPick list and jump between bookmarks.  
 4. Use the trash icons in QuickPick to remove bookmarks or clear them all.
 
 ---

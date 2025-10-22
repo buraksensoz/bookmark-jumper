@@ -3,7 +3,7 @@
     "displayName": "BookmarkJumper",
     "description": "Jump instantly between bookmarks in your code — fast, simple, and workspace-based.",
     "version": "0.1.0",
-    "publisher": "buraksensoz",
+    "publisher": "burakensz",
     "categories": ["Programming Languages","Snippets","Other"],
     "icon": "images/icon.png",
     "repository": {
@@ -104,61 +104,61 @@
         "keybindings": [
             {
                 "command": "bookmark.save.1",
-                "key": "ctrl+alt+1",
+                "key": "shift+alt+1",
                 "mac": "ctrl+cmd+1",
                 "when": "editorTextFocus"
             },
             {
                 "command": "bookmark.save.2",
-                "key": "ctrl+alt+2",
+                "key": "shift+alt+2",
                 "mac": "ctrl+cmd+2",
                 "when": "editorTextFocus"
             },
             {
                 "command": "bookmark.save.3",
-                "key": "ctrl+alt+3",
+                "key": "shift+alt+3",
                 "mac": "ctrl+cmd+3",
                 "when": "editorTextFocus"
             },
             {
                 "command": "bookmark.save.4",
-                "key": "ctrl+alt+4",
+                "key": "shift+alt+4",
                 "mac": "ctrl+cmd+4",
                 "when": "editorTextFocus"
             },
             {
                 "command": "bookmark.save.5",
-                "key": "ctrl+alt+5",
+                "key": "shift+alt+5",
                 "mac": "ctrl+cmd+5",
                 "when": "editorTextFocus"
             },
             {
                 "command": "bookmark.save.6",
-                "key": "ctrl+alt+6",
+                "key": "shift+alt+6",
                 "mac": "ctrl+cmd+6",
                 "when": "editorTextFocus"
             },
             {
                 "command": "bookmark.save.7",
-                "key": "ctrl+alt+7",
+                "key": "shift+alt+7",
                 "mac": "ctrl+cmd+7",
                 "when": "editorTextFocus"
             },
             {
                 "command": "bookmark.save.8",
-                "key": "ctrl+alt+8",
+                "key": "shift+alt+8",
                 "mac": "ctrl+cmd+8",
                 "when": "editorTextFocus"
             },
             {
                 "command": "bookmark.save.9",
-                "key": "ctrl+alt+9",
+                "key": "shift+alt+9",
                 "mac": "ctrl+cmd+9",
                 "when": "editorTextFocus"
             },
             {
                 "command": "bookmark.showSlots",
-                "key": "ctrl+alt+0",
+                "key": "shift+alt+0",
                 "mac": "ctrl+cmd+0",
                 "when": "editorTextFocus"
             },
