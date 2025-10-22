@@ -141,7 +141,7 @@
             {
                 "command": "bookmark.save.7",
                 "key": "ctrl+alt+7",
-                "mac": "cmd+7",
+                "mac": "ctrl+cmd+7",
                 "when": "editorTextFocus"
             },
             {
