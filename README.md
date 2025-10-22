@@ -36,9 +36,9 @@ Bookmarks are saved in the **workspace storage**, so every project keeps its own
 
 | Action | Windows / Linux | macOS |
 |:-------|:----------------|:------|
-| Save to Slot 1–9 | `Alt + [1–9]` | `Cmd + [1–9]` |
-| Go to Slot 1–9 | `Alt + Shift + [1–9]` | `Cmd + Shift + [1–9]` |
-| Show All Slots (QuickPick) | `Alt + 0` | `Cmd + 0` |
+| Save to Slot 1–9 | `Ctrl + Alt + [1–9]` | `Ctrl + Cmd + [1–9]` |
+| Go to Slot 1–9 | `Ctrl + Alt + Shift + [1–9]` | `Ctrl + Cmd + Shift + [1–9]` |
+| Show All Slots (QuickPick) | `Ctrl + Alt + 0` | `Ctrl + Cmd + 0` |
 
 
 > You can customize or override any keybinding in your personal `keybindings.json`.
@@ -59,8 +59,8 @@ Accessible from **Settings → Extensions → Bookmark Extension**:
 ## 💡 Usage
 
 1. Open any file and place the cursor where you want to create a bookmark.  
-2. Press a slot shortcut (e.g., `Alt + 1`).  
-3. Use `Alt + 0` to open the QuickPick list and jump between bookmarks.  
+2. Press a slot shortcut (e.g., `Ctrl + Alt + 1`).  
+3. Use `Ctrl + Alt + 0` to open the QuickPick list and jump between bookmarks.  
 4. Use the trash icons in QuickPick to remove bookmarks or clear them all.
 
 ---
