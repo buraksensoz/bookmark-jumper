@@ -1,0 +1,23 @@
+# Ignore node modules
+node_modules/**
+
+# Ignore tests and build artifacts
+out/
+dist/
+*.map
+*.vsix
+*.log
+
+# Ignore workspace and environment files
+.vscode/**
+.vscode-test/**
+.DS_Store
+Thumbs.db
+.env
+.git/**
+.gitignore
+
+# Ignore local files
+coverage/
+.cache/
+.history/
