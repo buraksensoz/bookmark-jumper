@@ -1,0 +1,222 @@
+{
+    "name": "bookmark-jumper",
+    "displayName": "BookmarkJumper",
+    "description": "Jump instantly between bookmarks in your code — fast, simple, and workspace-based.",
+    "version": "0.0.1",
+    "publisher": "buraksensoz",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/buraksensoz/bookmark-jumper"
+    },
+    "engines": {
+        "vscode": "^1.104.0"
+    },
+    "main": "./extension.js",
+    "contributes": {
+        "commands": [
+            {
+                "command": "bookmark.save.1",
+                "title": "Bookmark: Save to Slot 1"
+            },
+            {
+                "command": "bookmark.save.2",
+                "title": "Bookmark: Save to Slot 2"
+            },
+            {
+                "command": "bookmark.save.3",
+                "title": "Bookmark: Save to Slot 3"
+            },
+            {
+                "command": "bookmark.save.4",
+                "title": "Bookmark: Save to Slot 4"
+            },
+            {
+                "command": "bookmark.save.5",
+                "title": "Bookmark: Save to Slot 5"
+            },
+            {
+                "command": "bookmark.save.6",
+                "title": "Bookmark: Save to Slot 6"
+            },
+            {
+                "command": "bookmark.save.7",
+                "title": "Bookmark: Save to Slot 7"
+            },
+            {
+                "command": "bookmark.save.8",
+                "title": "Bookmark: Save to Slot 8"
+            },
+            {
+                "command": "bookmark.save.9",
+                "title": "Bookmark: Save to Slot 9"
+            },
+            {
+                "command": "bookmark.showSlots",
+                "title": "Bookmarks: Show Slots"
+            },
+            {
+                "command": "bookmark.clearSlot",
+                "title": "Bookmarks: Clear Slot"
+            },
+            {
+                "command": "bookmark.clearAll",
+                "title": "Bookmarks: Clear All"
+            },
+            {
+                "command": "bookmark.goto.1",
+                "title": "Bookmarks: Goto Slot 1"
+            },
+            {
+                "command": "bookmark.goto.2",
+                "title": "Bookmarks: Goto Slot 2"
+            },
+            {
+                "command": "bookmark.goto.3",
+                "title": "Bookmarks: Goto Slot 3"
+            },
+            {
+                "command": "bookmark.goto.4",
+                "title": "Bookmarks: Goto Slot 4"
+            },
+            {
+                "command": "bookmark.goto.5",
+                "title": "Bookmarks: Goto Slot 5"
+            },
+            {
+                "command": "bookmark.goto.6",
+                "title": "Bookmarks: Goto Slot 6"
+            },
+            {
+                "command": "bookmark.goto.7",
+                "title": "Bookmarks: Goto Slot 7"
+            },
+            {
+                "command": "bookmark.goto.8",
+                "title": "Bookmarks: Goto Slot 8"
+            },
+            {
+                "command": "bookmark.goto.9",
+                "title": "Bookmarks: Goto Slot 9"
+            }
+        ],
+        "keybindings": [
+            {
+                "command": "bookmark.save.1",
+                "key": "alt+1",
+                "mac": "cmd+1",
+                "when": "editorTextFocus"
+            },
+            {
+                "command": "bookmark.save.2",
+                "key": "alt+2",
+                "mac": "cmd+2",
+                "when": "editorTextFocus"
+            },
+            {
+                "command": "bookmark.save.3",
+                "key": "alt+3",
+                "mac": "cmd+3",
+                "when": "editorTextFocus"
+            },
+            {
+                "command": "bookmark.save.4",
+                "key": "alt+4",
+                "mac": "cmd+4",
+                "when": "editorTextFocus"
+            },
+            {
+                "command": "bookmark.save.5",
+                "key": "alt+5",
+                "mac": "cmd+5",
+                "when": "editorTextFocus"
+            },
+            {
+                "command": "bookmark.save.6",
+                "key": "alt+6",
+                "mac": "cmd+6",
+                "when": "editorTextFocus"
+            },
+            {
+                "command": "bookmark.save.7",
+                "key": "alt+7",
+                "mac": "cmd+7",
+                "when": "editorTextFocus"
+            },
+            {
+                "command": "bookmark.save.8",
+                "key": "alt+8",
+                "mac": "cmd+8",
+                "when": "editorTextFocus"
+            },
+            {
+                "command": "bookmark.save.9",
+                "key": "alt+9",
+                "mac": "cmd+9",
+                "when": "editorTextFocus"
+            },
+            {
+                "command": "bookmark.showSlots",
+                "key": "alt+0",
+                "mac": "cmd+0",
+                "when": "editorTextFocus"
+            },
+            {
+                "command": "bookmark.goto.1",
+                "key": "alt+shift+1",
+                "mac": "cmd+shift+1",
+                "when": "editorTextFocus"
+            },
+            {
+                "command": "bookmark.goto.2",
+                "key": "alt+shift+2",
+                "mac": "cmd+shift+2",
+                "when": "editorTextFocus"
+            },
+            {
+                "command": "bookmark.goto.3",
+                "key": "alt+shift+3",
+                "mac": "cmd+shift+3",
+                "when": "editorTextFocus"
+            },
+            {
+                "command": "bookmark.goto.4",
+                "key": "alt+shift+4",
+                "mac": "cmd+shift+4",
+                "when": "editorTextFocus"
+            },
+            {
+                "command": "bookmark.goto.5",
+                "key": "alt+shift+5",
+                "mac": "cmd+shift+5",
+                "when": "editorTextFocus"
+            },
+            {
+                "command": "bookmark.goto.6",
+                "key": "alt+shift+6",
+                "mac": "cmd+shift+6",
+                "when": "editorTextFocus"
+            },
+            {
+                "command": "bookmark.goto.7",
+                "key": "alt+shift+7",
+                "mac": "cmd+shift+7",
+                "when": "editorTextFocus"
+            },
+            {
+                "command": "bookmark.goto.8",
+                "key": "alt+shift+8",
+                "mac": "cmd+shift+8",
+                "when": "editorTextFocus"
+            },
+            {
+                "command": "bookmark.goto.9",
+                "key": "alt+shift+9",
+                "mac": "cmd+shift+9",
+                "when": "editorTextFocus"
+            }
+        ]
+    },
+    "devDependencies": {
+        "@types/vscode": "1.104.0"
+    }
+}

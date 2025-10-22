@@ -1,0 +1,34 @@
+# Node dependencies
+node_modules/
+
+# Build outputs
+out/
+dist/
+*.vsix
+
+# Logs & temp files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# VS Code project settings
+.history/
+.DS_Store
+
+# OS files
+Thumbs.db
+desktop.ini
+
+# Environment / cache
+.env
+.cache/
+*.bak
+*.tmp
+
+# Test coverage
+coverage/
+
+# Ignore package lock if you're using yarn
+# package-lock.json
+# yarn.lock
