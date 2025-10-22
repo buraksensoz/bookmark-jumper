@@ -30,5 +30,6 @@ desktop.ini
 coverage/
 
 # Ignore package lock if you're using yarn
-# package-lock.json
+package-lock.json
 # yarn.lock
+
