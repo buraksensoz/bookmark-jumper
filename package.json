@@ -160,19 +160,19 @@
                 "command": "bookmark.showSlots",
                 "key": "shift+alt+0",
                 "mac": "ctrl+cmd+0",
-                "when": "editorTextFocus"
+                "when": "editorFocus || terminalFocus || explorerViewletVisible"
             },
             {
                 "command": "bookmark.goto.1",
                 "key": "ctrl+alt+shift+1",
                 "mac": "ctrl+cmd+shift+1",
-                "when": "editorTextFocus"
+                "when": "editorFocus || terminalFocus || explorerViewletVisible"
             },
             {
                 "command": "bookmark.goto.2",
                 "key": "ctrl+alt+shift+2",
                 "mac": "ctrl+cmd+shift+2",
-                "when": "editorTextFocus"
+                "when": "editorFocus || terminalFocus || explorerViewletVisible"
             },
             {
                 "command": "bookmark.goto.3",
@@ -184,37 +184,37 @@
                 "command": "bookmark.goto.4",
                 "key": "ctrl+alt+shift+4",
                 "mac": "ctrl+cmd+shift+4",
-                "when": "editorTextFocus"
+                "when": "editorFocus || terminalFocus || explorerViewletVisible"
             },
             {
                 "command": "bookmark.goto.5",
                 "key": "ctrl+alt+shift+5",
                 "mac": "ctrl+cmd+shift+5",
-                "when": "editorTextFocus"
+                "when": "editorFocus || terminalFocus || explorerViewletVisible"
             },
             {
                 "command": "bookmark.goto.6",
                 "key": "ctrl+alt+shift+6",
                 "mac": "ctrl+cmd+shift+6",
-                "when": "editorTextFocus"
+                "when": "editorFocus || terminalFocus || explorerViewletVisible"
             },
             {
                 "command": "bookmark.goto.7",
                 "key": "ctrl+alt+shift+7",
                 "mac": "ctrl+cmd+shift+7",
-                "when": "editorTextFocus"
+                "when": "editorFocus || terminalFocus || explorerViewletVisible"
             },
             {
                 "command": "bookmark.goto.8",
                 "key": "ctrl+alt+shift+8",
                 "mac": "ctrl+cmd+shift+8",
-                "when": "editorTextFocus"
+                "when": "editorFocus || terminalFocus || explorerViewletVisible"
             },
             {
                 "command": "bookmark.goto.9",
                 "key": "ctrl+alt+shift+9",
                 "mac": "ctrl+cmd+shift+9",
-                "when": "editorTextFocus"
+                "when": "editorFocus || terminalFocus || explorerViewletVisible"
             }
         ]
     },
