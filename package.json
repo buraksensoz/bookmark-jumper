@@ -2,7 +2,7 @@
     "name": "bookmark-jumper",
     "displayName": "BookmarkJumper",
     "description": "Jump instantly between bookmarks in your code — fast, simple, and workspace-based.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "burakensz",
     "categories": ["Programming Languages","Snippets","Other"],
     "icon": "images/icon.png",
